@@ -1,0 +1,27 @@
+/*****************************TAG SELECTORS************************************/
+
+h1{
+  color: red;
+}
+
+img:hover{
+  background-color: gold;
+}
+
+/*****************************CLASS SELECTORS************************************/
+.red_apple{
+  background-color: green;
+}
+
+.pizza{
+  background-color: red;
+}
+
+.circular{
+  border-radius: 40%;
+}
+
+/*****************************ID SELECTORS************************************/
+#heading1{
+  color: Blue;
+}
